@@ -21,16 +21,17 @@ Follow these steps to set up and run the chatbot locally:
 
 1. Clone the repository
    git clone https://github.com/ferdousrah/RAGChatbot.git
+   
    cd rag-chatbot
 
-2. Create and activate a virtual environment
+3. Create and activate a virtual environment
    python3 -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-3. Install dependencies
+4. Install dependencies
    pip install -r requirements.txt
 
-4. Set up environment variables
+5. Set up environment variables
    Create a .env file in the project root and add the following variables:
 
 DJANGO_SECRET_KEY=your-secret-key
