@@ -20,7 +20,7 @@ Setup and Installation
 Follow these steps to set up and run the chatbot locally:
 
 1. Clone the repository
-   git clone https://github.com/your-username/rag-chatbot.git
+   git clone [https://github.com/your-username/rag-chatbot.git](https://github.com/ferdousrah/RAGChatbot.git)
    cd rag-chatbot
 
 2. Create and activate a virtual environment
